@@ -1,4 +1,5 @@
 POCO C++ Libraries [![Build Status](https://travis-ci.org/pocoproject/poco.png?branch=develop)](https://travis-ci.org/pocoproject/poco)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffossas%2Fpoco-1.6.0.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffossas%2Fpoco-1.6.0?ref=badge_shield)
 ==================
 
 POrtable COmponents C++ Libraries are:
@@ -29,3 +30,7 @@ We use the branching model described [here](http://nvie.com/posts/a-successful-g
 
 All text file line endings in the repository must be Unix-style (LF).
 This includes Visual Studio project and solution files (.sln, .vcproj, .vcxproj, .vcxproj.filters).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffossas%2Fpoco-1.6.0.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffossas%2Fpoco-1.6.0?ref=badge_large)
